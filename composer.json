@@ -1,0 +1,17 @@
+{
+    "name": "silva/cadveiculo",
+    "description": "Cadastro de veiculos com PHP + PDO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Silva",
+            "email": "diego.jose.rosa.da.silva@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.4@dev",
+        "components/jquery": "dev-master"
+    }
+}
